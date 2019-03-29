@@ -6,3 +6,22 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+#rigthNormalLabel{
+	position: absolute;
+	right: 5%;
+	top: 70px;
+}
+
+#rigthFactoryLabel{
+	position: absolute;
+	right: 5%;
+	top: 110px;
+}
+
+#rigthPrototypeLabel{
+	position: absolute;
+	right: 5%;
+	top: 150px;
+}
